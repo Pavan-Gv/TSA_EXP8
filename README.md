@@ -58,10 +58,6 @@ rolling_mean_5 = data['International '].rolling(window=5).mean()
 print("First 10 values of the rolling mean with window size 5:")
 print(rolling_mean_5.head(10))
 ```
-#### Perform rolling average transformation with a window size of 10
-```
-rolling_mean_10 = data['International '].rolling(window=10).mean()
-```
 #### Plot the original data and fitted value (rolling mean with window size 10)
 ```
 plt.plot(data['International '], label='Original Data')
