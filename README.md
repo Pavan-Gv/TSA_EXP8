@@ -106,7 +106,7 @@ plt.show()
 
 ![image](https://github.com/Pavan-Gv/TSA_EXP8/assets/94827772/14b17dad-6b02-47dc-861e-82fdda749065)
 
-# Plot Partial Autocorrelation Function (PACF) and Autocorrelation Function (ACF)
+## Plot Partial Autocorrelation Function (PACF) and Autocorrelation Function (ACF)
 
 ![image](https://github.com/Pavan-Gv/TSA_EXP8/assets/94827772/a83bef6c-a915-45cf-a726-40adefdf50dc)
 
