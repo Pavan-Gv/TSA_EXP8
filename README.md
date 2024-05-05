@@ -111,14 +111,19 @@ plt.show()
 ### OUTPUT:
 
 # Plot the original data and fitted value
-![image](https://github.com/Vivekreddy8360/TSA_EXP8/assets/94525701/5f971aea-be3c-425c-bcb9-95cd27cb2888)
+
+![image](https://github.com/Pavan-Gv/TSA_EXP8/assets/94827772/14b17dad-6b02-47dc-861e-82fdda749065)
 
 # Plot Partial Autocorrelation Function (PACF) and Autocorrelation Function (ACF)
-![image](https://github.com/Vivekreddy8360/TSA_EXP8/assets/94525701/ee9aff85-0bac-47df-a947-9e0c6c4846ad)
 
-![image](https://github.com/Vivekreddy8360/TSA_EXP8/assets/94525701/2a57d8fd-e564-4bf4-a92b-c4bd759151be)
+![image](https://github.com/Pavan-Gv/TSA_EXP8/assets/94827772/a83bef6c-a915-45cf-a726-40adefdf50dc)
+
+![image](https://github.com/Pavan-Gv/TSA_EXP8/assets/94827772/18ac6f4b-e075-4fe2-a230-1671482233c9)
 
 # Plot the original data and predictions
-![image](https://github.com/Vivekreddy8360/TSA_EXP8/assets/94525701/b29540db-745b-47d9-a151-9de1f739b656)
+
+![image](https://github.com/Pavan-Gv/TSA_EXP8/assets/94827772/98339c25-f6b1-4a97-8ac3-4d0a20ae4595)
+
+
 ### RESULT:
 Thus we have successfully implemented the Moving Average Model and Exponential smoothing using python.
