@@ -9,8 +9,7 @@ Reg No: 212221240013
 To implement Moving Average Model and Exponential smoothing Using Python.
 ### ALGORITHM:
 1. Import necessary libraries
-2. Read the electricity time series data from a CSV file,Display the shape and the first 20 rows of
-the dataset
+2. Read the electricity time series data from a CSV file,Display the shape and the first 20 rows of the dataset
 3. Set the figure size for plots
 4. Suppress warnings
 5. Plot the first 50 values of the 'Value' column
@@ -62,9 +61,6 @@ print(rolling_mean_5.head(10))
 ```
 plt.plot(data['International '], label='Original Data')
 plt.plot(rolling_mean_10, label='Rolling Mean (window=10)')
-plt.title('Original Data and Fitted Value (Rolling Mean)')
-plt.xlabel('Index')
-plt.ylabel('International Passengers')
 plt.legend()
 plt.show()
 ```
