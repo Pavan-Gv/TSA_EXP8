@@ -1,9 +1,9 @@
-# Ex.No: 08     MOVINTG AVERAGE MODEL IN PYTHON
+# Ex.No: 08 MOVINTG AVERAGE MODEL USING PYTHON
 ### Date: 
 
 ### AIM:
 
-To implement Moving Average Model and Exponential smoothing Using Python.
+To implement Moving Average Model using python programming.
 
 ### ALGORITHM:
 
