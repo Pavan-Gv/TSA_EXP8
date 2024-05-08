@@ -8,11 +8,17 @@ To implement Moving Average Model and Exponential smoothing Using Python.
 ### ALGORITHM:
 
 **Step 1:** Import Packages by Loading required libraries.
+
 **Step 2:** Read Dataset, Import data from a CSV file.
+
 **Step 3:** Generate White Noise by Creating random noise with specified mean and standard deviation.
+
 **Step 4:** Apply Moving Average by Calculating moving averages over the noise.
+
 **Step 5:** Plot Moving Average Series and Visualize the moving average data.
+
 **Step 6:** Simulate ARMA Process to Generate data using ARMA model with given coefficients.
+
 **Step 7:** Plot Simulated Series and Display the simulated data.
 
 ### PROGRAM:
